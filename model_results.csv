@@ -1,0 +1,5 @@
+model,val_auc,fit_s
+HistGB (boosting),0.6936,197.7
+Linear regression,0.6787,263.0
+Logistic regression,0.6784,74.8
+Gaussian Naive Bayes,0.6122,3.6
